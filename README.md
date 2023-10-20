@@ -30,6 +30,4 @@ Avant de pouvoir exécuter ce projet, assurez-vous d'avoir les éléments suivan
 2. Accédez au répertoire du projet.
 3. Installez les dépendances en exécutant la commande suivante :
 
-```bash
-npm install
-```
+`npm install`
